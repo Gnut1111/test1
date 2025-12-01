@@ -8,7 +8,7 @@
 #include <time.h>
 
 #include "CGRA.h"
-#include "FPGA_Driver.c"
+#include "FPGA_Driver1.c"
 #include "weights_array.c"
 #include "test_images.c"
 
