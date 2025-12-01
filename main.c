@@ -29,7 +29,7 @@
 
 #define INPUT_SIZE 784
 #define WEIGHTS_SIZE 5738
-#define NUM_TEST_IMAGES 10000
+#define NUM_TEST_IMAGES 1000
 
 //extern const int32_t weights_fixed[];
 // extern void load_weights_to_bram(uint32_t *bram_addr);
