@@ -10,7 +10,7 @@
 #include "CGRA.h"
 #include "FPGA_Driver1.c"
 #include "weights_array.c"
-#include "test_images.c"
+#include "test_images_1000.c"
 
 #define CNN_CTRL_BASEADDR 		(0x00000 >> 2)
 #define CNN_CTRL_R_BASEADDR 	(0x10000 >> 2)
