@@ -31,10 +31,10 @@
 #define WEIGHTS_SIZE 5738
 #define NUM_TEST_IMAGES 10000
 
-extern const int32_t weights_fixed[];
+//extern const int32_t weights_fixed[];
 // extern void load_weights_to_bram(uint32_t *bram_addr);
-extern const int32_t test_images_fixed[NUM_TEST_IMAGES][INPUT_SIZE];
-extern const uint8_t test_labels[NUM_TEST_IMAGES];
+//extern const int32_t test_images_fixed[NUM_TEST_IMAGES][INPUT_SIZE];
+//extern const uint8_t test_labels[NUM_TEST_IMAGES];
 
 // Convert float to Q16.16 fixed-point
 int32_t float_to_fixed(float value)
